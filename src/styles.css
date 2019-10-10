@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  height: 100vh;
+}
+#app {
+  margin: 0px;
+  width: 80%;
+  background: rgba(0, 0, 0, 0.1);
+  height: 100%;
+}
+#app ul {
+  display: inline-block;
+}
+#app ul li {
+  list-style-type: none;
+}
